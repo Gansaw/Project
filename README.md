@@ -1,7 +1,6 @@
-# UTS
-이곳은 부산대학교 K-Digital 3기 훈련생 최호진이 부경대학교 학생 시절 UTS 교육과정을 수료하기 위해 수행한 과제이다.
-
-This is a task performed by HoJin Choi, a 3rd K-Digital trainee at Pusan National University, to complete the UTS curriculum when I was a student at Pukyong National University.
+# UTS (University of Technology Sydney)
+시드니공과대학교에서 진행된 Data Analytics Foundation UTS Microcredential를 수료하기 위해 제출했던 레포트이다.
+This is a report submitted to complete the Data Analytics Foundation UTS Microcredential at the University of Technology Sydney.
 
 ## Getting Started
 정상적으로 프로그램을 동작하게 하기 위해서는 다음과 같은 과정을 거쳐야 합니다.
